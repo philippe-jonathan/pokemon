@@ -1,0 +1,13 @@
+.cartepok{
+	width: 60%;
+}
+
+.aff{
+	display: flex;
+	flex-direction: row;
+}
+
+div {
+	border-style: solid;
+	border-width: 2px;
+}
